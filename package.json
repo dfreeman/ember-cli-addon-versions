@@ -1,17 +1,17 @@
 {
   "name": "ember-cli-addon-versions",
-  "version": "1.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "1.0.1",
+  "description": "Report which Ember addons (at which versions) are installed in your application.",
   "keywords": [
     "ember-addon"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "Dan Freeman",
   "directories": {
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "dfreeman/ember-cli-addon-versions",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
