@@ -1,26 +1,15 @@
-# ember-cli-addon-versions
+# ember-cli-addon-versions [![Build Status](https://travis-ci.org/dfreeman/ember-cli-addon-versions.svg?branch=master)](https://travis-ci.org/dfreeman/ember-cli-addon-versions)
 
-This README outlines the details of collaborating on this Ember addon.
+Like [ember-cli-app-version](https://github.com/EmberSherpa/ember-cli-app-version), but for all your installed addons.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
-* `cd ember-cli-addon-versions`
-* `yarn install`
+```
+ember install ember-cli-addon-versions
+```
 
-## Running
+## Usage
 
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
+Check the `Info` section of the [Ember Inspector](https://github.com/emberjs/ember-inspector) extension to what addons (at what versions) are installed in any instance of your application.
 
-## Running Tests
-
-* `yarn test` (Runs `ember try:each` to test your addon against multiple Ember versions)
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [https://ember-cli.com/](https://ember-cli.com/).
+![image](https://user-images.githubusercontent.com/108688/32679890-25adfb6e-c636-11e7-9381-88723e11548b.png)
