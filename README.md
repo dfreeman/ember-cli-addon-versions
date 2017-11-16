@@ -10,6 +10,6 @@ ember install ember-cli-addon-versions
 
 ## Usage
 
-Check the `Info` section of the [Ember Inspector](https://github.com/emberjs/ember-inspector) extension to what addons (at what versions) are installed in any instance of your application.
+Check the `Info` section of the [Ember Inspector](https://github.com/emberjs/ember-inspector) extension to see which addons (at what versions) are installed in any instance of your application.
 
 ![image](https://user-images.githubusercontent.com/108688/32679890-25adfb6e-c636-11e7-9381-88723e11548b.png)
